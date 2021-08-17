@@ -19,23 +19,23 @@
 
 ## Women in Tech - Platform ##
 
+[AnitaB.org](https://anitab.org/) - A digital community for women in technology.
+
 [A Global Network for Women in Tech](https://www.womentech.net/en-in) - Empowering women in tech through leadership development, professional growth, mentorship and networking events.
 
-[WOMEN WHO CODE](https://www.womenwhocode.com/) - Inspire women to excel in technology careers.
+[Ada’s List](https://www.adaslist.co/) - The place for professional women (trans, intersex and cis) and non-binary people who work in the tech sector to connect, conspire, and take a stand.
 
-[TECH LADIES](https://www.hiretechladies.com/) - Connect with 100,000 Tech Ladies around the world. A free job board, and opportunities to learn, grow their careers.
+[Ascend](https://ascend.women-in-technology.com/) - The community platform designed for women in tech.
 
-[Girls Who Code](https://girlswhocode.com/) - Closing the gender gap in technology, Building the pipeline of future female engineers.
+[Women Who Code](https://www.womenwhocode.com/) - Inspire women to excel in technology careers.
 
-[WOMEN in AI](https://www.womeninai.co/) - Women in AI is member of the AI4EU project supported by European Commission as part of the European Union’s Horizon 2020 research and innovation programme. 
+[Women in AI](https://www.womeninai.co/) - Women in AI is member of the AI4EU project supported by European Commission as part of the European Union’s Horizon 2020 research and innovation programme. 
 
 [Women in Tech](https://women-in-tech.org/) - An international non-profit organization on a mission to close the gender gap and to help women embrace technology.
 
 [Women in Data](https://www.womenindata.org/) - On Mission to close the gender gap and increase diversity in data careers. 
 
-[Ascend](https://ascend.women-in-technology.com/) -  the community platform designed for women in tech.
-
-[Ada’s List](https://www.adaslist.co/) - the place for professional women (trans, intersex and cis) and non-binary people who work in the tech sector to connect, conspire, and take a stand.
+[Women Who Tech](https://womenwhotech.org/) - A nonprofit organization building a culture and inclusive economy to accelerate women tech entrepreneurs and close the funding gap.
 
 [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) A global fellowship program for women and non-binary coders. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
 
@@ -45,7 +45,13 @@
 
 [Girls in Tech started](https://girlsintech.org/) - A diverse community designed to help enter into and excel in tech.
 
+[Girls Who Code](https://girlswhocode.com/) - Closing the gender gap in technology, Building the pipeline of future female engineers.
+
 [Lean In](https://leanin.org/) - Help women come together to learn from each other and achieve their goals.
+
+[Ladies that UX](https://www.ladiesthatux.com/) - A community of women in UX who support each other, push the UX boundaries, and promote skill and talent.
+
+[Tech Ladies](https://www.hiretechladies.com/) - Connect with 100,000 Tech Ladies around the world. A free job board, and opportunities to learn, grow their careers.
 
 
 
