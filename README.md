@@ -31,6 +31,54 @@
 
 [CodeOp](https://codeop.tech/) - A Women, Transgender, Nonbinary, Education and Technology Community.
 
+[Czechitas](https://www.czechitas.cz/en) - A non-profit organization work to increase diversity in IT and to fight for a higher level of digital proficiency among women and in the new generation.
+
+[Code First Girls](https://codefirstgirls.org.uk/about-us/) - The largest provider of free coding courses for women in the UK.
+
+[Code Like a Girl](https://www.codelikeagirl.com/) - A social enterprise providing girls and women with the confidence, tools, knowledge and support to enter, and flourish, in the world of coding.
+
+[DevelopHer](https://developher.org/) - A not-for-profit organisation that looks to elevate women in tech, digital and entrepreneurship.
+
+[Female Tech Leaders](https://www.femaletechleaders.org/) - Empowering women in tech and leadership roles.
+
+[Geek Girls Carrots](https://gocarrots.org/) - A global grassroots organisation focused on attracting women to tech.
+
+[Girls in Tech started](https://girlsintech.org/) - A diverse community designed to help enter into and excel in tech.
+
+[Girls Who Code](https://girlswhocode.com/) - Closing the gender gap in technology, Building the pipeline of future female engineers.
+
+[Lean In](https://leanin.org/) - Help women come together to learn from each other and achieve their goals.
+
+[Ladies that UX](https://www.ladiesthatux.com/) - A community of women in UX who support each other, push the UX boundaries, and promote skill and talent.
+
+[LesbiansWhoTech](https://lesbianswhotech.org/) - A cummunity of LGBTQ, Women, Non-Binary and Trans in and around tech (and the people who support them).
+
+[Latina in Tech](https://latinasintech.org/) - A non-profit organization with the aim to connect, support, and empower Latina women working in tech. 
+
+[Mimmitkoodaa](https://mimmitkoodaa.ohjelmistoebusiness.fi/) - Aims to increase gender equality in the Finnish software industry.
+
+[Muses](https://musescodejs.org/) - Run JavaScript and Node.js workshops for women, non-binary and trans folk around Australia.
+
+[PyLadies](https://pyladies.com/) - A group of women developers worldwide who love the Python programming language.
+
+[Portuguese Women in Tech](https://www.portuguesewomenintech.com/) - Launched to support women in technology by providing visibility, networking, mentorship.
+
+[Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) A global fellowship program for women and non-binary coders. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
+
+[RightBrains](https://rightbrains.nl/) - A platform for women with digital ambitions.
+
+[Shetech](https://shetechitaly.org/) - Bridging the gender gap in the world of technology and digital in Italy.
+
+[SheCanCode](https://shecancode.io/) - On a mission to close the Tech Gender Gap.
+
+[SheSharp](https://www.meetup.com/SheSharp/) - A non-profit foundation based in Amsterdam that fosters diversity and inclusion in technology and entrepreneurship.
+
+[Tech Ladies](https://www.hiretechladies.com/) - Connect with 100,000 Tech Ladies around the world. A free job board, and opportunities to learn, grow their careers.
+
+[The Code to Change](http://codetochange.org/) - Aim to reduce skills gap and associated gender divide. 
+
+[The LMF Network](https://www.lmfnetwork.com/) - A global network dedicated to bridging the skills gap and enabling inclusive cultures.
+
 [Women Who Code](https://www.womenwhocode.com/) - Inspire women to excel in technology careers.
 
 [Women in AI](https://www.womeninai.co/) - Member of the AI4EU project supported by European Commission as part of the European Union’s Horizon 2020 research and innovation programme. 
@@ -47,43 +95,16 @@
 
 [Women in Tech DK](https://www.womenintech.dk/) - An award winning non-profit organisation who promote and take action on gender equality in the tech industry.
 
+[Women Go Tech](https://womengotech.com/) - Helping women start and accelerate their careers in IT and engineering in Lithuania.
+
+[Women In DevOps](https://www.womenindevops.com/) - Help close the DevOps gender gap and inspire the future leaders of the DevOps.
+
 [We Shape Tech](https://weshape.tech/) - A global platform for greater diversity and inclusion in technology and innovation.
 
-[Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) A global fellowship program for women and non-binary coders. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
+[Women in Data](https://womenindata.co.uk/ ) - A platform for UK female and gender diverse data professionals to share their technical knowledge and experiences, and to encourage more diverse representation in the industry.
 
-[RightBrains](https://rightbrains.nl/) - A platform for women with digital ambitions.
 
-[PyLadies](https://pyladies.com/) - A group of women developers worldwide who love the Python programming language.
 
-[Geek Girls Carrots](https://gocarrots.org/) - A global grassroots organisation focused on attracting women to tech.
-
-[Girls in Tech started](https://girlsintech.org/) - A diverse community designed to help enter into and excel in tech.
-
-[Girls Who Code](https://girlswhocode.com/) - Closing the gender gap in technology, Building the pipeline of future female engineers.
-
-[Lean In](https://leanin.org/) - Help women come together to learn from each other and achieve their goals.
-
-[Ladies that UX](https://www.ladiesthatux.com/) - A community of women in UX who support each other, push the UX boundaries, and promote skill and talent.
-
-[LesbiansWhoTech](https://lesbianswhotech.org/) - A cummunity of LGBTQ, Women, Non-Binary and Trans in and around tech (and the people who support them).
-
-[Latina in Tech](https://latinasintech.org/) - A non-profit organization with the aim to connect, support, and empower Latina women working in tech. 
-
-[SheSharp](https://www.meetup.com/SheSharp/) - A non-profit foundation based in Amsterdam that fosters diversity and inclusion in technology and entrepreneurship.
-
-[Tech Ladies](https://www.hiretechladies.com/) - Connect with 100,000 Tech Ladies around the world. A free job board, and opportunities to learn, grow their careers.
-
-[The Code to Change](http://codetochange.org/) - Aim to reduce skills gap and associated gender divide. 
-
-[The LMF Network](https://www.lmfnetwork.com/) - A global network dedicated to bridging the skills gap and enabling inclusive cultures.
-
-[Mimmitkoodaa](https://mimmitkoodaa.ohjelmistoebusiness.fi/) - Aims to increase gender equality in the Finnish software industry.
-
-[Female Tech Leaders](https://www.femaletechleaders.org/) - Empowering women in tech and leadership roles.
-
-[Portuguese Women in Tech](https://www.portuguesewomenintech.com/) - Launched to support women in technology by providing visibility, networking, mentorship.
-
-[Czechitas](https://www.czechitas.cz/en) - A non-profit organization work to increase diversity in IT and to fight for a higher level of digital proficiency among women and in the new generation.
 
 
 
