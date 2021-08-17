@@ -25,6 +25,8 @@
 
 [Ada’s List](https://www.adaslist.co/) - The place for professional women (trans, intersex and cis) and non-binary people who work in the tech sector to connect, conspire, and take a stand.
 
+[AllWomen](https://www.allwomen.tech/) - Shaping the futures of women in technology.
+
 [Ascend](https://ascend.women-in-technology.com/) - The community platform designed for women in tech.
 
 [CodeOp](https://codeop.tech/) - A Women, Transgender, Nonbinary, Education and Technology Community.
@@ -44,6 +46,8 @@
 [Women Hiring Circle](https://www.womenhiringcircle.com/) - A community-driven initiative that opens dialogue about diversity and inclusion.
 
 [Women in Tech DK](https://www.womenintech.dk/) - An award winning non-profit organisation who promote and take action on gender equality in the tech industry.
+
+[We Shape Tech](https://weshape.tech/) - A global platform for greater diversity and inclusion in technology and innovation.
 
 [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) A global fellowship program for women and non-binary coders. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
 
@@ -76,6 +80,12 @@
 [Mimmitkoodaa](https://mimmitkoodaa.ohjelmistoebusiness.fi/) - Aims to increase gender equality in the Finnish software industry.
 
 [Female Tech Leaders](https://www.femaletechleaders.org/) - Empowering women in tech and leadership roles.
+
+[Portuguese Women in Tech](https://www.portuguesewomenintech.com/) - Launched to support women in technology by providing visibility, networking, mentorship.
+
+[Czechitas]https://www.czechitas.cz/en - A non-profit organization work to increase diversity in IT and to fight for a higher level of digital proficiency among women and in the new generation.
+
+
 
 
 
