@@ -43,7 +43,11 @@
 
 [Women Hiring Circle](https://www.womenhiringcircle.com/) - A community-driven initiative that opens dialogue about diversity and inclusion.
 
+[Women in Tech DK](https://www.womenintech.dk/) - An award winning non-profit organisation who promote and take action on gender equality in the tech industry.
+
 [Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) A global fellowship program for women and non-binary coders. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
+
+[RightBrains](https://rightbrains.nl/) - A platform for women with digital ambitions.
 
 [PyLadies](https://pyladies.com/) - A group of women developers worldwide who love the Python programming language.
 
@@ -59,11 +63,29 @@
 
 [LesbiansWhoTech](https://lesbianswhotech.org/) - A cummunity of LGBTQ, Women, Non-Binary and Trans in and around tech (and the people who support them).
 
-[The LMF Network](https://www.lmfnetwork.com/) - A global network dedicated to bridging the skills gap and enabling inclusive cultures.
-
 [Latina in Tech](https://latinasintech.org/) - A non-profit organization with the aim to connect, support, and empower Latina women working in tech. 
+
+[SheSharp](https://www.meetup.com/SheSharp/) - A non-profit foundation based in Amsterdam that fosters diversity and inclusion in technology and entrepreneurship.
 
 [Tech Ladies](https://www.hiretechladies.com/) - Connect with 100,000 Tech Ladies around the world. A free job board, and opportunities to learn, grow their careers.
 
-[RightBrains](https://rightbrains.nl/) - A platform for women with digital ambitions.
+[The Code to Change](http://codetochange.org/) - Aim to reduce skills gap and associated gender divide. 
+
+[The LMF Network](https://www.lmfnetwork.com/) - A global network dedicated to bridging the skills gap and enabling inclusive cultures.
+
+[Mimmitkoodaa](https://mimmitkoodaa.ohjelmistoebusiness.fi/) - Aims to increase gender equality in the Finnish software industry.
+
+[Female Tech Leaders](https://www.femaletechleaders.org/) - Empowering women in tech and leadership roles.
+
+
+
+
+
+
+
+
+
+
+
+
 
