@@ -9,7 +9,7 @@
 
 [List of fraternities and sororities in the Philippines](https://en.wikipedia.org/wiki/List_of_fraternities_and_sororities_in_the_Philippines)
 
-## List of women's Colleges and University ##
+## List of Women's Colleges and University ##
 
 [List of women's colleges with countries](https://en.wikipedia.org/wiki/List_of_women%27s_colleges)
 
@@ -143,5 +143,6 @@ for cybersecurity.
 
 [Women in Technology (WiT)](https://wit-ace.com/about/) - India Forum focuses on increasing women's participation in STEM.
 
-[Wonder Women Tech (WWT)](https://wonderwomentech.com/) - A nonprofit organization and ecosystem that produces programming and national and international conferences that highlight, educate, and celebrate women and the underrepresented in STEAM industries innovation and entrepreneurialism.
+[Wonder Women Tech (WWT)](https://wonderwomentech.com/) - A nonprofit organization and ecosystem that produces programming and national & international
+conferences that highlight, educate, and celebrate women and the underrepresented in STEAM industries innovation and entrepreneurialism.
 
