@@ -83,7 +83,7 @@
 
 [Portuguese Women in Tech](https://www.portuguesewomenintech.com/) - Launched to support women in technology by providing visibility, networking, mentorship.
 
-[Czechitas]https://www.czechitas.cz/en - A non-profit organization work to increase diversity in IT and to fight for a higher level of digital proficiency among women and in the new generation.
+[Czechitas](https://www.czechitas.cz/en) - A non-profit organization work to increase diversity in IT and to fight for a higher level of digital proficiency among women and in the new generation.
 
 
 
