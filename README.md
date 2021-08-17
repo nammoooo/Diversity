@@ -47,6 +47,8 @@
 
 [Girls Who Code](https://girlswhocode.com/) - Closing the gender gap in technology, Building the pipeline of future female engineers.
 
+[Girl Develop IT](https://girldevelopit.com/) - On mission to create welcoming, supportive opportunities for women and non-binary adults to learn software development skills.
+
 [Lean In](https://leanin.org/) - Help women come together to learn from each other and achieve their goals.
 
 [Ladies that UX](https://www.ladiesthatux.com/) - A community of women in UX who support each other, push the UX boundaries, and promote skill and talent.
@@ -68,6 +70,8 @@
 [RightBrains](https://rightbrains.nl/) - A platform for women with digital ambitions.
 
 [Shetech](https://shetechitaly.org/) - Bridging the gender gap in the world of technology and digital in Italy.
+
+[She Codes](https://shecodes.com.au/) - A movement devoted to helping women or non-binary, just like you, to up their tech skills, and get into tech careers.
 
 [SheCanCode](https://shecancode.io/) - On a mission to close the Tech Gender Gap.
 
@@ -103,11 +107,9 @@
 
 [Women in Data](https://womenindata.co.uk/ ) - A platform for UK female and gender diverse data professionals to share their technical knowledge and experiences, and to encourage more diverse representation in the industry.
 
+[Women in Technology(WIT)](https://www.womenintechnology.org/home) - A advancing women in technology -- from the classroom to the boardroom.
 
-
-
-
-
+[WiCyS Women in cyberSecutity](https://www.wicys.org/) - Dedicated to bringing talented women together to celebrate and foster their passion and drive for cybersecurity. 
 
 
 
