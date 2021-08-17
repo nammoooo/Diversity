@@ -33,6 +33,20 @@
 
 [Women in Data](https://www.womenindata.org/) - On Mission to close the gender gap and increase diversity in data careers. 
 
+[Ascend](https://ascend.women-in-technology.com/) -  the community platform designed for women in tech.
+
+[Ada’s List](https://www.adaslist.co/) - the place for professional women (trans, intersex and cis) and non-binary people who work in the tech sector to connect, conspire, and take a stand.
+
+[Rails Girls Summer of Code](https://railsgirlssummerofcode.org/) A global fellowship program for women and non-binary coders. Students receive a three-month scholarship to work on existing Open Source projects and expand their skill set.
+
+[PyLadies](https://pyladies.com/) - A group of women developers worldwide who love the Python programming language.
+
+[Geek Girls Carrots](https://gocarrots.org/) - A global grassroots organisation focused on attracting women to tech.
+
+[Girls in Tech started](https://girlsintech.org/) - A diverse community designed to help enter into and excel in tech.
+
+[Lean In](https://leanin.org/) - Help women come together to learn from each other and achieve their goals.
+
 
 
 
