@@ -1,5 +1,8 @@
 ## Diversity - Hiring ##
 
+## Diversity Framework - By Josh Bersin ##
+
+
 ## Sororities and Fraternities ##
 - [List of social fraternities and sororities](https://en.wikipedia.org/wiki/List_of_social_fraternities_and_sororities) - Sororities are only for women. Fraternities are only for men. Fraternities and sororities were created as a place to foster academic, community service, and social initiatives that are unique to each chapter, is based on the tenets of friendship, leadership, scholarship, and philanthropy. <br />
 - [Fraternities and sororities in Canada](https://en.wikipedia.org/wiki/Fraternities_and_sororities_in_Canada). <br />
