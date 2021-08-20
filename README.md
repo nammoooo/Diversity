@@ -8,7 +8,7 @@
 - **Organizational dimensions** - Similarities and differences individual’s position in the organization. functional level or classification; content or field of work; division, department, unit, or group; seniority; work location; union affiliation; and management status.
 
 ## Four dynamics work against organizational inclusiveness ##
-- **Covering** - “out group employees, try to conform
+- **Covering** - “out group employees, try to conform.
 - **Prototypes for success** -  a “similarity bias”  tends to reward with assignments, promotions, etc. who share the same traits as management.
 - **Bias-based exclusion** -  discriminatory treatment of minority employees.
 - **Majority backlash** -  majority feeling excluded from the benefits of diversity initiatives.
