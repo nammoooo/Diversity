@@ -1,4 +1,28 @@
-## Diversity - Hiring ##
+## Diversity - Hiring ## 
+**Diversity & Inclusion  - Diversity asks, “Who do we bring into our organization?” Inclusion asks, “How do we make them feel welcome when they get here?”!**
+
+## Layers of Diversity - The Four Layers of Diversity - Gardenswartz and Rowe 
+- **Personality**  - Unique to each individual—style and characteristics, preferences, perceptions, behavioral predispositions, cognitive and learning styles—influenced by, outer layers.
+- **Internal dimensions** – Aspects assigned at birth, have little control, gender, sexual orientation, physical abilities, ethnicity, race, and age.
+- **External dimensions** - Life experiences and choices, geographic location, income, personal habits, recreational habits, religion, education, work experiences, appearance, marital status, and parental status.
+- **Organizational dimensions** - Similarities and differences individual’s position in the organization. functional level or classification; content or field of work; division, department, unit, or group; seniority; work location; union affiliation; and management status.
+
+## Four dynamics work against organizational inclusiveness ##
+- **Covering** - “out group employees, try to conform
+- **Prototypes for success** -  a “similarity bias”  tends to reward with assignments, promotions, etc. who share the same traits as management.
+- **Bias-based exclusion** -  discriminatory treatment of minority employees.
+- **Majority backlash** -  majority feeling excluded from the benefits of diversity initiatives.
+
+
+## Covering ## 
+**Occurs when an organization recruits a diverse workforce but, promotes assimilation rather than inclusion.** Covering four dimensions:  <br />
+- **Appearance** - Adjusting their attire, grooming, and mannerisms to “blend in.”
+- **Affiliation** - Avoiding behaviors associated with their “identity group” (culture, ethnic minority, sexual orientation).
+- **Advocacy** - Avoiding engaging in advocacy on behalf of their identity group.
+- **Association** - Avoiding associating with members of their identity group.
+
+
+
 
 ## Diversity & Inclusion Framework - By Josh Bersin ##
 <img width="863" alt="Screenshot 2021-08-20 at 11 49 54 AM" src="https://user-images.githubusercontent.com/88934779/130189071-364ddf03-81ad-4dac-99af-c16df940eee1.png">
