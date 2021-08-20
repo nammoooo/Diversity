@@ -1,6 +1,7 @@
 ## Diversity - Hiring ##
 
 ## Diversity Framework - By Josh Bersin ##
+![image](https://user-images.githubusercontent.com/88934779/130188840-006b2365-18c3-4b68-81d2-6f52db069e73.png)
 
 
 ## Sororities and Fraternities ##
