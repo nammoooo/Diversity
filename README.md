@@ -21,7 +21,14 @@
 - **Advocacy** - Avoiding engaging in advocacy on behalf of their identity group.
 - **Association** - Avoiding associating with members of their identity group.
 
+## Ways to Increase Diversity ##
 
+- Voluntary training
+- Cross-training
+- Diversity managers
+- College recruitment targeting women and minorities
+- Mentoring for women and minorities
+- Diversity task forces, Employee Resource groups, Diversity advisory boards, etc·   
 
 
 ## Diversity & Inclusion Framework - By Josh Bersin ##
