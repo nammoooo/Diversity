@@ -38,8 +38,8 @@
 ## Company with Neurodiversity Recruitment Programs ## 
 **_Neurodiversity refers to a group of people who have neurological differences such as autism, ADHD. and dyslexia._**
 
-- **SAP** - Well-known for its neurodiversity recruitment initiatives, and one of the first companies to begin hiring autistic workers. The corporation’s [Autism at Work program](https://news.sap.com/tags/autism-at-work/) was started in 2013.
-- **Microsoft** - To increase diversity at Microsoft, the tech giant launched its [Autism Program](https://www.microsoft.com/en-us/diversity/inside-microsoft/cross-disability/hiring.aspx) to recruit and onboard individuals on the autism spectrum. 
+- **SAP** - Well-known for its neurodiversity recruitment initiatives, and one of the first company to begin hiring autistic workers. The corporation’s [Autism at Work program](https://news.sap.com/tags/autism-at-work/) was started in 2013.
+- **Microsoft** - The tech giant launched its [Autism Program](https://www.microsoft.com/en-us/diversity/inside-microsoft/cross-disability/hiring.aspx) to recruit and onboard individuals on the autism spectrum. 
 - **J.P. Morgan** – To handle the stressful interview process for the ADHD, Tourette Syndrome, and other neurological disorders, the company rolled out [a series of pymetrics games](https://careers.jpmorgan.com/IN/en/how-we-hire/pymetrics-overview) to better match job candidates with the right job fit. 
 - **Hewlett Packard** - [DXC Dandelion Program](https://www.dxc.com/us/en/about-us/corporate-responsibility), an initiative designed to recruit people on the autism spectrum and prepare them for a successful career in IT.
 - **Ernst & Young** - In 2016, the company launched a [neurodiversity program](https://www.ey.com/en_us/news/2021/04/ey-us-launches-first-neuro-diverse-center-of-excellence-in-boston), which includes a customized onboarding process and assigning trained office buddies to support new hires.
