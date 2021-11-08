@@ -50,6 +50,13 @@
 - [List of fraternities and sororities in France](https://en.wikipedia.org/wiki/List_of_fraternities_and_sororities_in_France). <br />
 - [List of fraternities and sororities in the Philippines](https://en.wikipedia.org/wiki/List_of_fraternities_and_sororities_in_the_Philippines)
 
+## Gender Options ##
+
+Agender, Androgyne, Androgynous, Bigender, Cis, Cisgender, Cis Female, Cis Male, Cis Man, Cis Woman, Cisgender Female, Cisgender Male, Cisgender Man, Cisgender Woman, Female to Male, FTM, Gender Fluid, Gender Nonconforming, Gender Questioning, Gender Variant, Genderqueer, Intersex, Male to Female, MTF, Neither, Neutrois,
+Non-binary, Other, Pangender, Trans, Trans*, Trans Female, Trans* Female, Trans Male, Trans* Male, Trans Man, Trans* Man, Trans Person, Trans* Person, Trans Woman,
+Trans* Woman, Transfeminine, Transgender, Transgender Female, Transgender Male, Transgender Man, Transgender Person, Transgender Woman, Transmasculine, Transsexual
+Transsexual Female, Transsexual Male, Transsexual Man, Transsexual Person, Transsexual Woman, Two-Spirit
+
 ## List of Women's Colleges and University ##
 
 - [List of women's colleges with countries](https://en.wikipedia.org/wiki/List_of_women%27s_colleges). <br />
