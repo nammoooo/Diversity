@@ -103,6 +103,7 @@ scholarship to work on existing Open Source projects and expand their skill set.
 - [She Codes](https://shecodes.com.au/) - A movement devoted to helping women or non-binary, just like you, to up their tech skills, and get into tech careers. <br />
 - [SheCanCode](https://shecancode.io/) - On a mission to close the Tech Gender Gap. <br />
 - [SheSharp](https://www.meetup.com/SheSharp/) - A non-profit foundation based in Amsterdam that fosters diversity and inclusion in technology and entrepreneurship. <br />
+- [Society of Women Engineers India ](https://india.swe.org/) - A global network of thousands of women engineers and partners who want to excel as an engineer and leader. <br/>
 - [Tech Ladies](https://www.hiretechladies.com/) - Connect with 100,000 Tech Ladies around the world. A free job board, and opportunities to learn, grow their 
 careers. <br />
 - [TechWomen](https://www.techwomen.org/) - Empowers, connects and supports the next generation of women leaders in science, technology, engineering and mathematics (STEM) from Africa, Central and South Asia, and the Middle East. <br />
